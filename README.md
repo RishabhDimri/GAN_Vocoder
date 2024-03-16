@@ -7,9 +7,9 @@
 
 <h4 >A ML application which uses GAM and input form generative audio model.</h4>
 
-  [![Code size](https://img.shields.io/github/languages/code-size/ThakurSaAbhay/WavCraft?style=for-the-badge)](https://github.com/ThakurSaAbhay/WavCraft)
-  [![Issues](https://img.shields.io/github/issues/ThakurSaAbhay/WavCraft?style=for-the-badge&label=Issues)](https://github.com/ThakurSaAbhay/WavCraft)
-  [![GitHub last commit](https://img.shields.io/github/last-commit/ThakurSaAbhay/WavCraft?style=for-the-badge&logo=git)](https://github.com/ThakurSaAbhay/WavCraft) 
+  [![Code size](https://img.shields.io/github/languages/code-size/RishabhDimri/GAN_Vocoder?style=for-the-badge)](https://github.com/RishabhDimri/GAN_Vocoder)
+  [![Issues](https://img.shields.io/github/issues/RishabhDimri/GAN_Vocoder?style=for-the-badge&label=Issues)](https://github.com/RishabhDimri/GAN_Vocoder)
+  [![GitHub last commit](https://img.shields.io/github/last-commit/RishabhDimri/GAN_Vocoder?style=for-the-badge&logo=git)](https://github.com/RishabhDimri/GAN_Vocoder) 
 
 <p>
   <a href="#key-features">Key Features</a> •
@@ -32,7 +32,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and go
 ```bash
 # Clone this repository
 
-$ git clone https://github.com/ThakurSaAbhay/WavCraft
+$ git clone https://github.com/RishabhDimri/GAN_Vocoder
 
 ```
 and open the cloned folder with Android Studio.
@@ -41,18 +41,8 @@ and open the cloned folder with Android Studio.
 
 This is a machine learning application which uses GAM vocoder of nvidea and using tokens of generative audio model. It also translates slangs to their meaning into different languages too like russian, hindi, chinese etc.
 
-
-## You may also like...
-
-- [Humidity Temperature Sensor](https://github.com/ThakurSaAbhay/Humidity-Temperature-Sensor) - An IOT based temperature and humidity updater.
-- [Prakriti](https://github.com/ThakurSaAbhay/Prakriti) - Solution for sustainable living.
-
-
-
 ---
 
-> Website [Portfolio](https://thakursaabhay.github.io/Portfolio/) &nbsp;&middot;&nbsp;
-> GitHub [@ThakurSaAbhay](https://github.com/ThakurSaAbhay) &nbsp;&middot;&nbsp;
-> Twitter [@ThakurSaAbhay](https://twitter.com/ThakurSaAbhay)
-
+> Website [Portfolio](https://rishabhdimri.github.io/Portfolio/) &nbsp;&middot;&nbsp;
+> GitHub [@RishabhDimri](https://github.com/RishabhDimri) &nbsp;&middot;&nbsp;
 
